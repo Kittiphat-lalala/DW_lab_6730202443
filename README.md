@@ -109,3 +109,5 @@ In the staging layer, we have the following tables:
 models/: คือสายการผลิตหลัก (สร้าง Table/View)
 
 seeds/: คือคลังวัตถุดิบเสริม (CSV อ้างอิง)
+### **Datawarehouse Layer**
+<img src="./readme_image/logical-model.png">
